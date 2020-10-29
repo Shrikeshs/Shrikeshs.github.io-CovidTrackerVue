@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'covid19tracker'
+    publicPath: 'CovidTrackerIndiaVue'
 }
